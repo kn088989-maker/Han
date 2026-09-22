@@ -1,0 +1,5 @@
+python-telegram-bot>=20.0
+aiohttp>=3.8.0
+ddddocr>=1.4.0
+opencv-python-headless>=4.5.0
+numpy>=1.21.0
