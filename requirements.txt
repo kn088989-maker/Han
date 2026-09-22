@@ -1,6 +1,0 @@
-python-telegram-bot
-aiohttp
-opencv-python-headless
-ddddocr
-numpy
-flask
